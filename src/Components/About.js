@@ -5,9 +5,7 @@ import bgImg from '../assets/images/about-hero.png';
 
 function About() {
   
-  const arr = ["Jose", "Luis", "Lisa", "Sofia"];
-
-  
+    
 
   return (
 
